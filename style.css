@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.new span{
+    margin: 0px -3px;
+    font-size: 25px;
+    font-weight: blod;
+    transition: color 0.2s;
+    color: rgb(255, 255, 255);
+}
+
+.js-shadow{
+    color: #222;
+    text-shadow: 0px 0px 5px #fff, 0px 0px 10px #fff , 0px 0px 10px #fff;
+}
